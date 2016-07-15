@@ -8,3 +8,13 @@ F:\Navigate_3.x\demo\TodoWebApp\WebApp.Tests\bin\Debug\EntityFramework.xml
 F:\Navigate_3.x\demo\TodoWebApp\WebApp.Tests\obj\Debug\WebApp.Tests.csprojResolveAssemblyReference.cache
 F:\Navigate_3.x\demo\TodoWebApp\WebApp.Tests\obj\Debug\WebApp.Tests.dll
 F:\Navigate_3.x\demo\TodoWebApp\WebApp.Tests\obj\Debug\WebApp.Tests.pdb
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\bin\Debug\WebApp.Tests.dll.config
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\bin\Debug\WebApp.Tests.dll
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\bin\Debug\WebApp.Tests.pdb
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\bin\Debug\WebApp.dll
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\bin\Debug\EntityFramework.dll
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\bin\Debug\WebApp.pdb
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\bin\Debug\EntityFramework.xml
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\obj\Debug\WebApp.Tests.csprojResolveAssemblyReference.cache
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\obj\Debug\WebApp.Tests.dll
+F:\Navigate_3.x\octopus\TodoWebApp\WebApp.Tests\obj\Debug\WebApp.Tests.pdb
