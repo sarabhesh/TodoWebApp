@@ -10,7 +10,7 @@ namespace WebApp.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to demo ASP.NET MVCs!";
+            ViewBag.Message = "Welcome to demo ASP.NET MVC!";
 
             return View();
         }
